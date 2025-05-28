@@ -1,0 +1,10 @@
+<testsuite>
+    <testcase name="LoginTest">
+        <step name="OpenApplication" status="PASS"/>
+        <step name="EnterCredentials" status="PASS"/>
+        <step name="Submit" status="FAIL"/>
+    </testcase>
+    <testcase name="LogoutTest">
+        <step name="Logout" status="PASS"/>
+    </testcase>
+</testsuite>
