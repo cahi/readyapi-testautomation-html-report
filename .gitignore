@@ -18,3 +18,5 @@ buildNumber.properties
 *.log
 *.iml
 .idea/
+.settings/
+.factorypath

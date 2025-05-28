@@ -1,11 +1,11 @@
-package com.example.report;
+package net.aim.report;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Bean;
 
-import com.example.report.service.ReportService;
+import nat.aim.report.service.ReportService;
 
 @SpringBootApplication
 public class ReportApplication {
